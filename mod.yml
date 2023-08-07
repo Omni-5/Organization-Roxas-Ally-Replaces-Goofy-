@@ -6,10 +6,10 @@ assets:
    method: copy
    source:
      - name: obj/P_EX030.mdlx
- - name: obj/P_EX030.a.fm
+ - name: obj/P_EX030.a.us
    method: copy
    source:
-     - name: obj/P_EX030.a.fm
+     - name: obj/P_EX030.a.us
  - name: obj/P_EX030.mset
    method: copy
    source:
@@ -22,7 +22,7 @@ assets:
    method: copy
    source:
      - name: obj/W_EX030.mset
- - name: obj/W_EX030.a.fm
+ - name: obj/W_EX030.a.us
    method: copy
    source:
-     - name: obj/W_EX030.a.fm
+     - name: obj/W_EX030.a.us
